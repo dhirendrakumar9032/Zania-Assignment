@@ -15,6 +15,13 @@ This project lets you see a list of cards on the screen. You can do a few things
 
 When you open the project, it first shows you that it's loading the cards. Once it's done loading, you can start moving cards or clicking on them to see bigger pictures.
 
+## Screenhots
+<img width="1512" alt="Screenshot 2024-10-13 at 12 30 10" src="https://github.com/user-attachments/assets/bacee2ce-51b2-46ff-b239-c1dcd505a1d1">
+<img width="1512" alt="Screenshot 2024-10-13 at 12 30 57" src="https://github.com/user-attachments/assets/1835d786-041f-417a-bb72-b743ca5b2543">
+<img width="1512" alt="Screenshot 2024-10-13 at 12 31 04" src="https://github.com/user-attachments/assets/6e436089-9a89-48c9-bd93-f8d115d57e72">
+
+
+
 ### Special Parts of the Project
 
 - **Cards List**: This part takes care of showing all the cards and lets you move them or click on them.
