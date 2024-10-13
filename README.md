@@ -1,5 +1,6 @@
 
-# Project: Card Container with Image Overlay[link][https://zania-assignment-chi.vercel.app/]
+# Project: Card Container with Image Overlay
+[Live Demo](https://zania-assignment-chi.vercel.app/)
 
 **My Name is Dhirendra Kumar, I am a frontend developer.** I created this project to show cards that users can move around and click to see bigger images.
 
